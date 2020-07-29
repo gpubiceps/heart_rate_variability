@@ -21,15 +21,18 @@
 
 <img src="images/ecg.jpg" width=550>
 
+
 **_Графический анализ_**
 
 
 <img src="images/params.jpg" width=700>
 
+
 **_Таблица показателей_**
 
 
 <img src="images/table.jpg" width=700>
+
 
 **_Заключение_**
 
