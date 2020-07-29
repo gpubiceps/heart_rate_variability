@@ -16,13 +16,22 @@
 **Packages:** pandas, numpy, scipy, matplotlib
 
 # Результат работы
-_Отфильтрованный сигнал_
+**_Отфильтрованный сигнал_**
 
 
-_Графический анализ_
+<img src="images/ecg.jpg" width=550>
+
+**_Графический анализ_**
 
 
-_Таблица показателей_
+<img src="images/params.jpg" width=700>
+
+**_Таблица показателей_**
 
 
-_Заключение_
+<img src="images/table.jpg" width=700>
+
+**_Заключение_**
+
+
+<img src="images/conclusion.jpg" width=700>
